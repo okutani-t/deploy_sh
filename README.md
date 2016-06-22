@@ -15,9 +15,9 @@ $ source ~/.bashrc
 
 ## Settings
 
-「ここから～ここまで」の中を適宜編集
+「ここから～ここまで」の中を適宜編集。
 
-### deploy_path
+### ■deploy_path
 
 デプロイしたい場所を記述。
 
@@ -25,7 +25,7 @@ $ source ~/.bashrc
 例: deploy_path=/var/www/
 ```
 
-### proj_name
+### ■proj_name
 
 プロジェクトの名前を記述。
 
@@ -33,7 +33,7 @@ $ source ~/.bashrc
 例: proj_name=myapp
 ```
 
-### remote_path
+### ■remote_path
 
 リモートリポジトリのパスを記述。GitHubでもBitbucketでもなんでもOK。
 
@@ -41,7 +41,7 @@ $ source ~/.bashrc
 例: remote_path=git@github.com:okutani-t/first-git.git
 ```
 
-### branch
+### ■branch
 
 デプロイするブランチを指定。
 
@@ -50,7 +50,7 @@ $ source ~/.bashrc
 例: branch=develop
 ```
 
-### host
+### ■host
 
 SSHで接続するときの情報。user@hostの形で記載。
 
