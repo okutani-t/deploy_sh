@@ -46,8 +46,8 @@ $ source ~/.bashrc
 デプロイするブランチを指定。
 
 ```
-例: branch=master
-例: branch=develop
+例1: branch=master
+例2: branch=develop
 ```
 
 ### ■host
@@ -57,8 +57,8 @@ SSHで接続するときの情報。user@hostの形で記載。
 ~/.ssh/configを設定しておけばhostnameだけでもOK。
 
 ```
-例: host=okutani@example.com
-例: host=sakura
+例1: host=okutani@example.com
+例2: host=sakura
 ```
 
 ## Usage
