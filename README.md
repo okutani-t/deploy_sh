@@ -80,7 +80,7 @@ $ git clone https://github.com/okutani-t/deploy_sh.git
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+MIT
 
 ## Blog Article
 
