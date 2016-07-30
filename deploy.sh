@@ -5,10 +5,10 @@
 # デプロイしたいディレクトリの場所
 deploy_path=dir_path
 
-# デプロイするプロジェクトのディレクトリ名
+# デプロイするプロジェクトの名前
 proj_name=proj_name
 
-# リモートリポジトリのURLパス
+# リモートリポジトリのURL
 remote_path=git@github.com:okutani-t/first-git.git
 
 # デプロイするブランチ
